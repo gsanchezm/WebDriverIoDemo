@@ -23,7 +23,7 @@
     "@wdio/sync": "^6.1.14",
     "chai": "^4.2.0",
     "chromedriver": "^83.0.0",
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "selenium-standalone": "^6.17.0",
     "wdio-chromedriver-service": "^6.0.3",
     "webdriverio": "^6.1.22"
